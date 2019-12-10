@@ -9,3 +9,15 @@ Redux Axios middleware
 - https://github.com/svrcekmichal/redux-axios-middleware
 
 Redux persist npm packages - https://www.npmjs.com/package/redux-persist
+
+
+
+React Playlist
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
+Hooks
+https://www.youtube.com/watch?v=cF2lQ_gZeA8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A
+
+React-Redux
+https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK
+
